@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "51qFEeF/7KugNwhgC4IM1wIQkYPrWP4nLRFyiPeErVOQzPszSPcrn5YEZ86KVbVvUYcvLLEnjbAUMPc/SbOTlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fatima Ezzahra MNIA\\Desktop\\HystoCar\\HystoCar.iOS\\HystoCar.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatima Ezzahra MNIA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Fatima Ezzahra MNIA\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Fatima Ezzahra MNIA\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
