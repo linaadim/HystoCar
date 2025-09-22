@@ -1,5 +1,5 @@
 🚗 HystoCar
-HystoCar est une application multiplateforme (Android, iOS, Windows) développée avec **Xamarin** et basée sur une architecture **microservices**.  
+HystoCar est une application **multiplateforme** (Android, iOS, Windows) développée avec **Xamarin** et basée sur une architecture **microservices**.  
 Elle vise à simplifier et optimiser la gestion des véhicules pour les particuliers, gestionnaires de flotte et professionnels de l’automobile.  
 
 🎯 Objectifs du projet
@@ -13,7 +13,7 @@ Elle vise à simplifier et optimiser la gestion des véhicules pour les particul
    Interface fluide et intuitive, adaptée aussi bien aux particuliers qu’aux professionnels.
 
 🏗️ Architecture du projet
-Le projet est organisé en plusieurs microservices/modules principaux :
+Le projet est organisé en plusieurs **microservices**/modules principaux :
  HystoCar.API
 - Responsable de l’interface côté serveur, exposant des endpoints REST pour les clients.
 - Dossiers clés :
@@ -54,7 +54,7 @@ HystoCar.Services
 - Backend: ASP.NET Core, C#  
 - Frontend Mobile/Desktop : Xamarin  
 - Base de données : SQL Server
-- Architecture : Microservices
+- Architecture : **Microservices**
 
  📐 Diagramme de classes
 
